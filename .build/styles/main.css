@@ -5,7 +5,7 @@
   font-family: Roboto, sans-serif;
 }
 body {
-  background-color: #f5f6fa;
+  background-color: rgba(18, 151, 18, 0.767);
 }
 li {
   list-style: none;
@@ -35,7 +35,7 @@ header .container {
   margin-left: 24px;
 }
 .menu li a {
-  color: #fff;
+  color: #ffffff;
   text-decoration: none;
 }
 section {
@@ -55,8 +55,8 @@ section {
 }
 .product-button {
   display: block;
-  background-color: #44bd32;
-  color: #fff;
+  background-color: #d9ff00;
+  color: #ffffff;
   text-align: center;
   padding: 8px 0;
   border-radius: 8px;
@@ -64,7 +64,7 @@ section {
   text-decoration: none;
 }
 .product-button:hover {
-  background-color: #4cd137;
+  background-color: #d9ff00;
 }
 @media screen and (max-width: 1023px) {
   .container {
